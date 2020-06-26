@@ -12,7 +12,9 @@ We accept contracts on any ```hisec``` and ```lowsec``` system also all ```nulls
 - **Collateral:** up to 1.0B ISK
 - **Reward:** Copy quote bellow
 ## Quote
-``` aqui imagino que seja a parte da calculadora```
+``` 
+aqui imagino que seja a parte da calculadora
+```
 ## Contact us
 - Infos about contracts setup, price questions call in ```Sedex.Jaeger``` *in-game* chat;
 - Sending an Evemail to ```Nomos Glashutte```
